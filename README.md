@@ -1,7 +1,7 @@
 # Applied machine-learning for science
 
 💻 Material for a course on applied machine-learning for scientists taught at
-EPFL in Spring 2017.
+EPFL in spring 2017.
 
 🚧 This is still under heavy construction 🚧
 
@@ -19,7 +19,7 @@ Current bucket list of topics to cover ((~) denotes: short introduction to):
 5. PCA and t-SNE: lower dimensional embeddings and visualisation
 5. Bayesian optimisation for hyper-parameter tuning (~)
 6. Meet a GAN: cops and robbers for neural networks (~)
-7. Fine tuning state the state of the art: standing on the shoulder of giants (~)
+7. Fine tuning the state of the art: standing on the shoulder of giants (~)
 8. Probabilistic datastructures: a bonus lecture
 
 
@@ -35,13 +35,19 @@ python stack:
 * matplotlib v2.0.0
 * jupyter v5.0.0
 
-All work submitted for credit has to run with those dependencies only.
+All work submitted for credit has to run with these dependencies only.
 
-... instructions for setting things up on your laptop ...
+[Instructions on installing](install.md) on windows, mac and linux.
+
 
 # License
 
-Heavily inspired by ESL, ISL, Introduction to scikit-learn, and lecture notes
-by Gilles Louppe.
+Heavily inspired by [ESL], [ISL], [Introduction to machine-learning with
+python][IML], and lecture notes by [Gilles Louppe][glouppe].
 
 All original work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[ISL]: http://www-bcf.usc.edu/~gareth/ISL/
+[ESL]: https://statweb.stanford.edu/~tibs/ElemStatLearn/
+[IML]: http://shop.oreilly.com/product/0636920030515.do
+[glouppe]: https://github.com/glouppe
