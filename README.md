@@ -5,6 +5,7 @@ EPFL in spring 2017.
 
 🚧 This is still under heavy construction 🚧
 
+
 # Outline
 
 The course consists of six two hour lectures, followed by one hour to discuss

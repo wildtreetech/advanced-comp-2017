@@ -1,7 +1,7 @@
 # Installing the required software
 
 These instructions should get you from zero to a working setup on windows,
-linux and Mac.
+linux and Mac. Please try to follow them before the first lecture.
 
 These instructions were taken directly from the amazing people at
 [Software Carpentry](https://software-carpentry.org).
@@ -10,6 +10,7 @@ In general terms you will need a terminal, python3, scikit-learn 0.18,
 matplotlib, git and jupyter. If you know what all these mean you probably do
 not need to read these instructions.
 
+👋 If you get stuck with these instructions create an issue [here](https://github.com/wildtreetech/advanced-comp-2017/issues/new).
 
 # Windows
 
