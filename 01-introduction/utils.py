@@ -13,14 +13,16 @@ from sklearn.metrics import roc_curve, auc
 from IPython.core.display import HTML
 
 
-def plot_surface(clf, X, y, n_steps=250, subplot=None, show=True):
+def plot_surface(clf, X, y, n_steps=250, subplot=None, show=True, ylim=None, xlim=None):
     if subplot is None:
         fig = plt.figure()
     else:
         plt.subplot(*subplot)
 
-    xlim = X[:, 0].min(), X[:, 0].max()
-    ylim = X[:, 1].min(), X[:, 1].max()
+    if xlim is None:
+        xlim = X[:, 0].min(), X[:, 0].max()
+    if ylim is None:
+        ylim = X[:, 1].min(), X[:, 1].max()
     xx, yy = np.meshgrid(np.linspace(xlim[0], xlim[1], n_steps),
                          np.linspace(ylim[0], ylim[1], n_steps))
 
