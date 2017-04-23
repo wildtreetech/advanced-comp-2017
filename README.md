@@ -24,6 +24,11 @@ Current bucket list of topics to cover ((~) denotes: short introduction to):
 8. Probabilistic datastructures: a bonus lecture
 
 
+# Course projects
+
+Take a look at possible [course projects](projects.md).
+
+
 # Technicalities, installing, running code
 
 All the code will be written in python. We will make use of the scientific
