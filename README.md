@@ -16,7 +16,7 @@ Current bucket list of topics to cover ((~) denotes: short introduction to):
 1. [General problem statement and introduction](https://github.com/wildtreetech/advanced-comp-2017/tree/master/01-introduction)
 2. [Ensembles of trees: forests and gradient boosting](https://github.com/wildtreetech/advanced-comp-2017/tree/master/02-trees)
 3. [Neural networks: convolutions aren't convoluted](https://github.com/wildtreetech/advanced-comp-2017/tree/master/03-neural-networks)
-4. [Model selection and evaluation: predict future performance]((https://github.com/wildtreetech/advanced-comp-2017/tree/master/04-model-performance)
+4. [Model selection and evaluation: predict future performance](https://github.com/wildtreetech/advanced-comp-2017/tree/master/04-model-performance)
 5. PCA and t-SNE: lower dimensional embeddings and visualisation
 5. Bayesian optimisation for hyper-parameter tuning (~)
 6. Meet a GAN: cops and robbers for neural networks (~)
