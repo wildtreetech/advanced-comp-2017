@@ -3,13 +3,11 @@
 💻 Material for a course on applied machine-learning for scientists taught at
 EPFL in spring 2017.
 
-🚧 This is still under heavy construction 🚧
-
 
 # Outline
 
 The course consists of six two hour lectures, followed by one hour to discuss
-the weeks homework assignment.
+the week's homework assignment. Followed by a final project on real world data.
 
 Current bucket list of topics to cover ((~) denotes: short introduction to):
 
@@ -17,10 +15,9 @@ Current bucket list of topics to cover ((~) denotes: short introduction to):
 2. [Ensembles of trees: forests and gradient boosting](https://github.com/wildtreetech/advanced-comp-2017/tree/master/02-trees)
 3. [Neural networks: convolutions aren't convoluted](https://github.com/wildtreetech/advanced-comp-2017/tree/master/03-neural-networks)
 4. [Model selection and evaluation: predict future performance](https://github.com/wildtreetech/advanced-comp-2017/tree/master/04-model-performance)
-5. PCA and t-SNE: lower dimensional embeddings and visualisation
-5. Bayesian optimisation for hyper-parameter tuning (~)
-6. Meet a GAN: cops and robbers for neural networks (~)
-7. Fine tuning the state of the art: standing on the shoulder of giants (~)
+5. [PCA and t-SNE: lower dimensional embeddings and visualisation](https://github.com/wildtreetech/advanced-comp-2017/tree/master/05-embedding)
+5. [Bayesian optimisation for hyper-parameter tuning (~)](https://github.com/wildtreetech/advanced-comp-2017/tree/master/06-regression-with-errorbars)
+6. [Meet a GAN: cops and robbers for neural networks (~)](https://github.com/wildtreetech/advanced-comp-2017/tree/master/07-fake-or-not)
 8. Probabilistic datastructures: a bonus lecture
 
 
